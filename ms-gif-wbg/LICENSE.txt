@@ -1,0 +1,6 @@
+This repository hosts assets originally created and owned by Microsoft and Skype Technologies, sourced from:  
+https://support.microsoft.com/en-us/skype/what-is-the-full-list-of-emoticons-01af0c65-529f-4a4d-8e3a-a393033a359a
+
+I am not affiliated with Microsoft, Skype Technologies, or any related entities. This repository exists purely for preservation and ease of access.  
+
+All rights to the assets remain with Microsoft and Skype Technologies. If these assets are subject to specific licensing terms, users should contact Microsoft for further information.  
