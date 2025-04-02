@@ -32,3 +32,6 @@ The json index follows the following format:
     ...
 }
 ```
+
+## Tooling
+Inside `.dev` are assets/tools/scripts used in managing or retriving the collections, most of the scripts in here are just quickely made for function or broken entirely.
